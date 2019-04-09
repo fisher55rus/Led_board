@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('LED_Board.step','2019-04-05T21:03:15',('An Author'),(
+FILE_NAME('LED_Board.step','2019-04-09T23:10:03',('An Author'),(
     'A Company'),'Open CASCADE STEP processor 6.9',
   'KiCad to STEP converter','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
