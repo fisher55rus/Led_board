@@ -1,0 +1,4 @@
+¹;Component;Name;Quantity;Footprint
+1;H1;MountingHole_5mm;1;MountingHole
+2;J4,J5;PinHeader_1x02_P2.54mm_Vertical;2;Conn_01x02_Male
+3;D1,D2;LED_Cree-XHP70_12V;2;LED_Cree_XHP70_12V
